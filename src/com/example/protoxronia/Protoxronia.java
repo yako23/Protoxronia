@@ -13,5 +13,8 @@ public class Protoxronia {
 
         System.out.println("to athroisma twn 2 arithmwn einai:");
         System.out.println(a+b);
+
+
+        System.out.println("Ftiaxno to 1o");
     }
 }
