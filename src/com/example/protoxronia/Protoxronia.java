@@ -17,5 +17,8 @@ public class Protoxronia {
 
         System.out.println("Ftiaxno to 1o");
         System.out.println("Ftiaxno to 2o");
+
+
+        System.out.println("Ftiaxno to 4o");
     }
 }
